@@ -48,6 +48,7 @@
             android:inputType="textPersonName"
             android:padding="8dp"
             android:textColorHint="#8e8e8e"
+            android:textColor="@color/black"
             android:textSize="18dp" />
 
         <TextView
@@ -69,6 +70,7 @@
             android:ems="10"
             android:inputType="textPassword"
             android:padding="8dp"
+            android:textColor="@color/black"
             android:textColorHint="#8e8e8e"
             android:textSize="18dp" />
 
